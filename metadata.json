@@ -1,0 +1,6 @@
+{
+  "name": "PANTAU-LRT",
+  "description": "Prototipe sistem pemantauan email masuk, pengelompokan otomatis, penilaian urgensi, penyusunan draf respons, dan laporan periodik layanan LRT Sumsel untuk Balai Pengelola Kereta Api Ringan Sumatera Selatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
